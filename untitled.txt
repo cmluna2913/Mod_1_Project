@@ -1,0 +1,57 @@
+#Bom
+#Name Basics
+#RT Movie
+#RT Reviews
+#Title akas
+#Title basics
+Title Crew
+TItle principals
+Title ratings
+tmbd
+tn movie budgets
+
+
+bom
+Index(['title', 'studio', 'domestic_gross', 'foreign_gross', 'year'], dtype='object')
+name_basics.columns
+Index(['nconst', 'primary_name', 'birth_year', 'death_year',
+       'primary_profession', 'known_for_titles'],
+      dtype='object')
+rt_movies
+Index(['id', 'synopsis', 'rating', 'genre', 'director', 'writer',
+       'theater_date', 'dvd_date', 'currency', 'box_office', 'runtime',
+       'studio'],
+      dtype='object'
+rt_reviews.columns
+Index(['id', 'review', 'rating', 'fresh', 'critic', 'top_critic', 'publisher',
+       'date'],
+      dtype='object')
+title_akas
+Index(['title_id', 'ordering', 'title', 'region', 'language', 'types',
+       'attributes', 'is_original_title'],
+      dtype='object'
+title_basics.columns
+Index(['tconst', 'primary_title', 'original_title', 'start_year',
+       'runtime_minutes', 'genres'],
+      dtype='object')
+title_crew.columns
+Index(['tconst', 'directors', 'writers'], dtype='object')
+title_principals.columns
+Index(['tconst', 'ordering', 'nconst', 'category', 'job', 'characters'], dtype='object')
+title_ratings.columns
+Index(['tconst', 'averagerating', 'numvotes'], dtype='object')
+tmdb_movies.columns
+Index(['Unnamed: 0', 'genre_ids', 'id', 'original_language', 'original_title',
+       'popularity', 'release_date', 'title', 'vote_average', 'vote_count'],
+      dtype='object')
+tn_movie_budgets.columns
+Index(['id', 'release_date', 'movie', 'production_budget', 'domestic_gross',
+       'worldwide_gross'],
+      dtype='object')
+
+
+rt_movies, rt_reviews
+id = id
+
+title_akas?, title_basics, title_crew, title_ratings
+title_id, tconst, tconst, tconst, tconst
