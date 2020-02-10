@@ -55,3 +55,19 @@ id = id
 
 title_akas?, title_basics, title_crew, title_ratings
 title_id, tconst, tconst, tconst, tconst
+
+
+
+
+*Popular Genre's Question*
+rt movies
+tmdb movies
+title basics
+
+*Budget's to consider vs domestic gross/foreign gross*
+
+
+
+Genres
+rt_movies
+tmdb_movies
